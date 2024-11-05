@@ -5,6 +5,7 @@ Welcome to the fourth guide in the **Make TON Telegram Mini App** series! This p
 ## Project Overview
 
 This Telegram Mini App showcases:
+
 - Setting up a Next.js 14 project with TypeScript
 - Implementing TON wallet connection using @tonconnect/ui-react
 - Managing wallet connection state
@@ -24,6 +25,7 @@ This Telegram Mini App showcases:
 ## Getting Started
 
 1. Clone the repository:
+
    ```
    git clone https://github.com/your-username/Make-TON-Telegram-Mini-App-4.git
    cd Make-TON-Telegram-Mini-App-4
@@ -63,11 +65,6 @@ As this is a Telegram Mini App, you can't see the result directly in development
 ## Note on TonConnect Manifest
 
 This demo uses a TonConnect manifest hosted on IPFS. In a production application, you should host your own manifest file and update the URL in the `TonConnectUIProvider`.
-
-## YouTube Channel
-
-For video tutorials and more in-depth explanations, check out my YouTube channel:
-[Nikandr Surkov](https://www.youtube.com/@NikandrSurkov)
 
 ## Next Steps
 
